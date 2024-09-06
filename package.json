@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "homepage": "https://Gint367.github.io/react-todolist",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
 
   },
   "dependencies": {
